@@ -6,7 +6,6 @@ export default function Carousel({
   autoSlide = false,
   autoSlideInterval = 3000,
 }) {
-  console.log(slides)
   const [curr, setCurr] = useState(0)
 
   const prev = () =>
