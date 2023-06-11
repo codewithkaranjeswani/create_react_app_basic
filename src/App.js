@@ -4,8 +4,8 @@ import Carousel from "./components/Carousel";
 
 function App() {
   const slides = [
+    "./images/1.png",
     "./images/2.png",
-    "./images/1c.png",
     "./images/3.png",
     "./images/4.png",
   ];
